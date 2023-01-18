@@ -2,8 +2,8 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Learn more about React
+- 🌱 I’m currently learning Swift and Flutter.
+- 🥅 2023 Goals: Being good at Swift :)
 - ⚡ Fun fact: I love to play basketball and doing fitness
 
 ### Connect with me:
