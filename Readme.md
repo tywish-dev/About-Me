@@ -8,10 +8,6 @@
 
 ### Connect with me:
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/samet-yilmaz-dev/)
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yilmz_samett/)
-&nbsp;&nbsp;
-[![website](./img/discord.png)](https://discordapp.com/users/367313948774760448)
 
 ### Languages and Tools:
 
