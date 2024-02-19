@@ -26,4 +26,4 @@
 <br />
 <br />
 
-
+![Snake animation](https://github.com/tywish-dev/tywish-dev/blob/output/github-contribution-grid-snake.svg)
