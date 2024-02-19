@@ -1,3 +1,6 @@
+
+![snake gif](https://github.com/tywish-dev/tywish-dev/blob/output/github-contribution-grid-snake.svg)
+
 # Hi, I'm Samet 👋 
 
 ## I'm a Student and Developer!!
@@ -27,4 +30,3 @@
 <br />
 
 
-![snake gif](https://github.com/tywish-dev/tywish-dev/blob/output/github-contribution-grid-snake.svg)
