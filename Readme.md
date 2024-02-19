@@ -25,3 +25,6 @@
 
 <br />
 <br />
+
+
+![snake gif](https://github.com/tywish-dev/tywish-dev/blob/output/github-contribution-grid-snake.gif)
