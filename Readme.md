@@ -26,6 +26,6 @@
 <br />
 <br />
 
-[![samyilma's 42 stats](https://badge.mediaplus.ma/black/samyilma?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![samyilma's 42 stats](https://badge.mediaplus.ma/greenbinary/samyilma?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ![Snake animation](https://github.com/tywish-dev/tywish-dev/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
