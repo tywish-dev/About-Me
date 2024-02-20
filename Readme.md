@@ -2,10 +2,6 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning Swift and Flutter.
-- 🥅 2024 Goals: Being good at Swift :)
-- ⚡ Fun fact: I love to play basketball and doing fitness
-
 ### Connect with me:
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/samet-yilmaz-dev/)
 
