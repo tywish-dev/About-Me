@@ -1,7 +1,3 @@
-# Hi, I'm Samet 👋 
-
-## I'm a Student and Developer!!
-
 ### Connect with me:
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/samet-yilmaz-dev/)
 
